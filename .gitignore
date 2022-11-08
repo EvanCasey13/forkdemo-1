@@ -3,3 +3,4 @@
 *.log
 *DS_St*
 package-lock.json
+package.json
